@@ -1,1 +1,1 @@
-# Google-Assistant-light-control
+# Light-control-IFTTT
